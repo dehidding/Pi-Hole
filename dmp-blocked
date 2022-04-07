@@ -1,0 +1,153 @@
+# Title: DavidHidding/dmp-blocked
+#
+# This hosts file is a hosts blocked by DMP
+#
+# Date: 07 April 2022 22:05:26 (UTC)
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/dehidding/Pi-Hole/dmp-blocked
+#
+# ===============================================================
+
+# News and Finance
+0.0.0.0 www.dailyherald.com
+0.0.0.0 247wallst.com
+0.0.0.0 standardnews.com
+0.0.0.0 www.ratezip.com
+0.0.0.0 www.washingtonexaminer.com
+0.0.0.0 www.amerisave.com
+
+# Shopping
+0.0.0.0 www.littletoncoin.com
+0.0.0.0 www.lilicloth.com
+0.0.0.0 www.poshmark.com
+0.0.0.0 www.hawaiicoffeecompany.com
+0.0.0.0 www.beallsflorida.com
+0.0.0.0 www.bradsdeals.com
+0.0.0.0 www.thepatrioticmint.com
+0.0.0.0 www.usmint.gov
+0.0.0.0 www.dealwiki.com
+0.0.0.0 www.bestcigarprices.com
+0.0.0.0 www.mountvernoncoinco.com
+0.0.0.0 www.worx.com
+0.0.0.0 www.dickssportinggoods.com
+0.0.0.0 www.govmint.com
+0.0.0.0 www.wayfair.com
+0.0.0.0 www.pgsgoldandcoin.com
+0.0.0.0 www.thorntonsinc.com
+0.0.0.0 www.threeinsurance.com
+0.0.0.0 www.link.bespokepost.com
+0.0.0.0 www.bespokepost.com
+0.0.0.0 www.oldworldshavecompany.com
+0.0.0.0 www.pensandpatron.com
+0.0.0.0 www.costcotravel.com
+0.0.0.0 www.couchsrvnation.com
+0.0.0.0 www.mavistire.com
+0.0.0.0 www.tirerack.com
+0.0.0.0 www.justtires.com
+0.0.0.0 www.jegs.com
+0.0.0.0 www.inkfarm.com
+0.0.0.0 www.discounttire.com
+0.0.0.0 www.bluespot.uk.com
+0.0.0.0 bluespottools.blogspot.com
+0.0.0.0 trk.email.bestbuy.com
+0.0.0.0 bestbuy.com
+0.0.0.0 www.bestbuy.com
+0.0.0.0 www.artistsupplysource.com
+0.0.0.0 www.drugs.com
+0.0.0.0 urbanaunty.com
+0.0.0.0 www.instyle.com
+0.0.0.0 hondacustomerserviceexperience.com
+0.0.0.0 www.carvana.com
+0.0.0.0 www.scotts.com
+0.0.0.0 pro.solairehealth.org
+0.0.0.0 solairenutraceuticals.com
+0.0.0.0 www.kohls.com
+0.0.0.0 www.mobstub.com
+0.0.0.0 nueby.com
+0.0.0.0 trugreen.lawncare.net
+0.0.0.0 www.cadillac.com
+0.0.0.0 www.carmax.com
+0.0.0.0 www.diamondcbd.com
+0.0.0.0 www.nighthawkcustom.com
+
+# Dating or Porn
+0.0.0.0 www.ukrainebeauty.net
+0.0.0.0 www.fill-me-please.com
+0.0.0.0 www.jucydate.com
+0.0.0.0 www.bridge-of-love.com
+0.0.0.0 www.aurorasamantha.space
+0.0.0.0 www.dategen.com
+0.0.0.0 www.hotlonelywomen.com
+0.0.0.0 www.hotdatemehard.com
+0.0.0.0 www.link.silversingles.com
+0.0.0.0 www.silversingles.com
+
+# Sports and Gambling
+0.0.0.0 www.fanrecap.com
+0.0.0.0 www.clevelandgolf.com
+0.0.0.0 www.golfpass.com
+0.0.0.0 www.sportsfanisland.com
+0.0.0.0 www.team-pride.com
+0.0.0.0 www.fightfast.com
+0.0.0.0 www.equibase.com
+0.0.0.0 www.fanatics.com
+0.0.0.0 www.performancegolf.co
+0.0.0.0 www.sportpirate.com
+0.0.0.0 www.sportsfanisland.com
+0.0.0.0 www.help.fitbit.com
+0.0.0.0 help.fitbit.com
+0.0.0.0 fitbit.com
+0.0.0.0 www.fitbit.com
+0.0.0.0 www.fansided.com
+0.0.0.0 www.riverscasino.com
+0.0.0.0 thespun.com
+0.0.0.0 cart.fightfast.com
+0.0.0.0 em.fightfast.com
+0.0.0.0 fightfast.com
+
+
+# Misc Time Wasters
+0.0.0.0 www.pollking.com
+0.0.0.0 www.onthisdateinhistory.net
+0.0.0.0 www.braincandy.net
+0.0.0.0 www.dailyopinionpolls.com
+0.0.0.0 www.daily-stuff.com
+0.0.0.0 www.shefinds.com
+0.0.0.0 www.pmllc.omeclk.com
+0.0.0.0 www.bonvoyaged.com
+0.0.0.0 www.sizzlfy.com
+0.0.0.0 www.attorneysnote.com
+0.0.0.0 www.triviatoday.com
+0.0.0.0 game.triviatoday.com
+0.0.0.0 listy.email
+0.0.0.0 t.listy.email
+0.0.0.0 triviatoday.com
+0.0.0.0 www.msn.com
+0.0.0.0 www.sheknows.com
+0.0.0.0 hollywoodlife.com
+0.0.0.0 www.clubsclown.com
+
+# Misc
+0.0.0.0 www.appsec.aarp.org
+0.0.0.0 api.taboola.com
+0.0.0.0 www.taboola.com
+0.0.0.0 www.emailmagiclinks.com
+0.0.0.0 www.fadeawayworld.net
+0.0.0.0 www.a.lw.skype.com
+0.0.0.0 www.billing-aws.affinitas.de
+0.0.0.0 www.click.online.costco.com
+0.0.0.0 www.2skem.kerenonesng.com
+0.0.0.0 branchinvinciblejobs.com
+0.0.0.0 gignook.com
+0.0.0.0 signup.myjobscorner.com
+0.0.0.0 myjobscorner.com
+0.0.0.0 www.cp2trk.com
+0.0.0.0 email.robly.com
+
+# Political
+0.0.0.0 joshhawley.com
+0.0.0.0 winred.com
+0.0.0.0 secure.winred.com
+
+# Phishing
+0.0.0.0 entermatrixxu.ru.com
